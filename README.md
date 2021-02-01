@@ -1,2 +1,2 @@
-# codeforces
+# codeforces-solutions
 This repository contains codes for codeforces problemset questions ...
