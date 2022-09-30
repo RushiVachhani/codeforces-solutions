@@ -12,7 +12,7 @@ The format of the solution file must be in the following format:
 
 ```
 /*
-*   Author: <Full Name of the contributor></pre>
+*   Author: <Full Name of the contributor>
 *   Platform: Codeforces
 *   Problem_ID: <Problem id>
 *   Language: C++
